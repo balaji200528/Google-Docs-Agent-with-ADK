@@ -1,0 +1,11 @@
+# Ignore virtual environment and system files
+.venv/
+__pycache__/
+*.pyc
+.env
+.cache/
+.bash*
+.config/
+.docker/
+cloudshell_open/
+README-cloudshell.txt
